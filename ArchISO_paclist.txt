@@ -46,7 +46,7 @@ libfido2
 libusb-compat
 linux
 linux-atm
-linux-header
+linux-headers
 linux-firmware
 linux-firmware-marvell
 linux-lts

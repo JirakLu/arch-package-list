@@ -5,3 +5,5 @@ libreoffice-fresh
 neofetch
 vlc
 yt-dlp
+duf
+htop
