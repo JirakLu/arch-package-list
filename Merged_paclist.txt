@@ -3,14 +3,14 @@ alsa-card-profiles
 alsa-firmware
 alsa-plugins
 alsa-utils
-anki-bin 
 avahi
 b43-fwcutter
 base
 bat
 bc
 bind
-brave-bin
+bluez
+bluez-utils
 brltty
 broadcom-wl
 btop
@@ -27,7 +27,6 @@ cups-pk-helper
 darkhttpd
 dash
 ddrescue
-devour
 dhclient
 dhcpcd
 diffutils
@@ -87,7 +86,6 @@ inter-font
 irssi
 iw
 iwd
-jetbrains-toolbox
 jfsutils
 kitty-terminfo
 less
@@ -129,15 +127,12 @@ nano
 nbd
 ndisc6
 neofetch
-netbird
-netbird-ui
 netctl
 net-tools
 networkmanager
 network-manager-applet
 networkmanager-openvpn
 nfs-utils
-ngrok
 nilfs-utils
 nmap
 nm-connection-editor
@@ -179,7 +174,6 @@ rxvt-unicode-terminfo
 screen
 sdparm
 sg3_utils
-slack-desktop
 smartmontools
 sof-firmware
 sqlite
@@ -189,7 +183,6 @@ sudo
 syslinux
 system-config-printer
 systemd-resolvconf
-tableplus
 tcpdump
 terminus-font
 testdisk
@@ -251,5 +244,3 @@ xwallpaper
 yt-dlp
 zoxide
 zsh
-zsh-fast-syntax-highlighting
-zsh-you-should-use
