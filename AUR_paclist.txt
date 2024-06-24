@@ -1,0 +1,11 @@
+anki-bin 
+brave-bin
+devour
+jetbrains-toolbox
+netbird
+netbird-ui
+ngrok
+slack-desktop
+tableplus
+zsh-fast-syntax-highlighting
+zsh-you-should-use

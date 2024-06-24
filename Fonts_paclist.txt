@@ -17,3 +17,4 @@ ttf-roboto
 ttf-ubuntu-font-family
 ttf-jetbrains-mono
 ttf-jetbrains-mono-nerd
+ttf-joypixels
