@@ -14,7 +14,13 @@ eza
 fastfetch
 firefox
 flameshot
+file-roller
+gtk2
+gtk3
+gtk4
 htop
+jdk-openjdk
+jdk17-openjdk
 lf
 libreoffice-fresh
 lxappearance
@@ -34,6 +40,7 @@ thunar-volman
 tldr
 upower
 unclutter
+unzip
 valgrind
 vlc
 xclip
