@@ -2,6 +2,9 @@
 
 name: Generate_paclist
 
+permissions:
+  contents: write
+
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
@@ -34,7 +37,4 @@ jobs:
           git add ./Merged_paclist.txt
           git commit -m "generated"
       - name: Push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git push
+        run: git push
