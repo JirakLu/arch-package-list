@@ -49,6 +49,7 @@ eza
 f2fs-tools
 fastfetch
 fatresize
+file-roller
 firefox
 firewalld
 flameshot
@@ -75,6 +76,9 @@ gst-plugins-good
 gst-plugins-ugly
 gstreamer
 gstreamer-vaapi
+gtk2
+gtk3
+gtk4
 gutenprint
 haveged
 hdparm
@@ -86,6 +90,8 @@ inter-font
 irssi
 iw
 iwd
+jdk-openjdk
+jdk17-openjdk
 jfsutils
 kitty-terminfo
 less
@@ -215,6 +221,7 @@ ttf-roboto
 ttf-ubuntu-font-family
 udftools
 unclutter
+unzip
 upower
 usb_modeswitch
 usbmuxd
