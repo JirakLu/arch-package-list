@@ -17,6 +17,7 @@ flameshot
 htop
 lf
 libreoffice-fresh
+lxappearance
 mpv
 neofetch
 pass
