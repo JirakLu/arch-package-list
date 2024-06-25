@@ -25,11 +25,13 @@ qt5-base
 qt6-base
 sqlite
 starship
+stow
 thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
 tldr
+upower
 unclutter
 valgrind
 vlc
