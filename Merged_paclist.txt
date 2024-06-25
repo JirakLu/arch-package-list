@@ -109,6 +109,7 @@ linux-headers
 livecd-sounds
 lsscsi
 lvm2
+lxappearance
 lynx
 man-db
 man-pages
