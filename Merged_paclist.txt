@@ -18,6 +18,7 @@ btrfs-progs
 chromium
 clonezilla
 cloud-init
+cmake
 cronie
 cryptsetup
 cups
@@ -26,6 +27,7 @@ cups-pdf
 cups-pk-helper
 darkhttpd
 dash
+dbus
 ddrescue
 dhclient
 dhcpcd
@@ -99,12 +101,19 @@ lf
 lftp
 lib32-mesa
 lib32-vulkan-intel
+libconfig
+libegl
+libepoxy
+libev
 libfido2
+libgl
 libreoffice-fresh
 libusb-compat
 libva-mesa-driver
 libva-utils
 libx11
+libxcb
+libxext
 libxft
 libxinerama
 linux
@@ -124,6 +133,7 @@ mdadm
 memtest86+
 mesa
 mesa-vdpau
+meson
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
@@ -144,6 +154,7 @@ nilfs-utils
 nm-connection-editor
 nmap
 noto-fonts
+npm
 nss-mdns
 ntfs-3g
 nvme-cli
@@ -156,11 +167,14 @@ partclone
 parted
 partimage
 pass
+pcre2
 pcsclite
 pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+pixman
+pnpm
 ppp
 pptpclient
 pulsemixer
@@ -226,6 +240,7 @@ upower
 usb_modeswitch
 usbmuxd
 usbutils
+uthash
 valgrind
 vim
 virtualbox-guest-utils
@@ -241,6 +256,8 @@ wpa_supplicant
 wvdial
 x264
 x265
+xcb-util-image
+xcb-util-renderutil
 xclip
 xcompmgr
 xf86-video-intel
@@ -248,10 +265,12 @@ xfsprogs
 xl2tpd
 xorg
 xorg-xinit
+xorgproto
 xournalpp
 xterm
 xvidcore
 xwallpaper
+yarn
 yt-dlp
 zoxide
 zsh
