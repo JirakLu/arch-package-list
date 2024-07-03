@@ -26,7 +26,9 @@ libreoffice-fresh
 lxappearance
 mpv
 neofetch
+npm
 pass
+pnpm
 pulsemixer
 qt5-base
 qt6-base
@@ -47,5 +49,6 @@ xclip
 xcompmgr
 xournalpp
 xwallpaper
+yarn
 yt-dlp
 zoxide
