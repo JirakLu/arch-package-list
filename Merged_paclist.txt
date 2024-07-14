@@ -44,6 +44,7 @@ dunst
 e2fsprogs
 edk2-shell
 efibootmgr
+eslint
 espeakup
 ethtool
 exfatprogs
@@ -153,6 +154,7 @@ nfs-utils
 nilfs-utils
 nm-connection-editor
 nmap
+nodejs
 noto-fonts
 npm
 nss-mdns
@@ -177,6 +179,7 @@ pixman
 pnpm
 ppp
 pptpclient
+prettier
 pulsemixer
 pv
 python-pillow
