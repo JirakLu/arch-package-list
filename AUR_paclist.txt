@@ -1,5 +1,6 @@
 anki-bin 
 brave-bin
+bun
 devour
 jetbrains-toolbox
 netbird
