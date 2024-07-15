@@ -218,6 +218,7 @@ thunar-volman
 tldr
 tmux
 tpm2-tss
+ttc-iosevka
 ttf-bitstream-vera
 ttf-caladea
 ttf-carlito
@@ -229,7 +230,7 @@ ttf-fira-code
 ttf-fira-mono
 ttf-fira-sans
 ttf-inconsolata
-ttf-jetbrains-mono
+ttf-iosevka-nerd
 ttf-jetbrains-mono-nerd
 ttf-joypixels
 ttf-liberation
