@@ -9,4 +9,3 @@ ngrok
 slack-desktop
 tableplus
 zsh-fast-syntax-highlighting
-zsh-you-should-use
