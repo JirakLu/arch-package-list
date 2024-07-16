@@ -64,6 +64,7 @@ foomatic-db-nonfree-ppds
 foomatic-db-ppds
 fsarchiver
 ghostscript
+github-cli
 gnu-netcat
 gpart
 gpm
