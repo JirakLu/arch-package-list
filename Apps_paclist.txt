@@ -16,6 +16,7 @@ fastfetch
 firefox
 flameshot
 file-roller
+github-cli
 gtk2
 gtk3
 gtk4
