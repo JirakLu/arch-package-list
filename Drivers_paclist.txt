@@ -4,7 +4,6 @@ dkms
 giflib
 gnutls
 gst-plugins-base-libs
-gtk3
 haveged
 intel-media-driver
 lib32-alsa-lib
@@ -50,7 +49,6 @@ mpg123
 ncurses
 ocl-icd
 openal
-sqlite
 v4l-utils
 virtualbox-guest-utils
 vulkan-icd-loader
