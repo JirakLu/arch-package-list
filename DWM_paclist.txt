@@ -2,15 +2,14 @@ alsa-utils
 base-devel
 cmake
 dbus
+imlib2
 libconfig
 libegl
 libepoxy
 libev
 libgl
-libimlib2
 libx11
 libxcb
-libxcb-res
 libxext
 libxft
 libxinerama
