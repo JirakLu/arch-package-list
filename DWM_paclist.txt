@@ -1,3 +1,5 @@
+alsa-utils
+base-devel
 cmake
 dbus
 libconfig
@@ -5,8 +7,10 @@ libegl
 libepoxy
 libev
 libgl
+libimlib2
 libx11
 libxcb
+libxcb-res
 libxext
 libxft
 libxinerama
@@ -17,3 +21,5 @@ uthash
 xcb-util-image
 xcb-util-renderutil
 xorgproto
+xorg-xbacklight
+xorg-xev
