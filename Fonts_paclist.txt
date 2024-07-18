@@ -1,5 +1,6 @@
 inter-font
 noto-fonts
+ttc-iosevka
 ttf-bitstream-vera
 ttf-caladea
 ttf-carlito
@@ -11,11 +12,10 @@ ttf-fira-code
 ttf-fira-mono
 ttf-fira-sans
 ttf-inconsolata
+ttf-iosevka-nerd
+ttf-jetbrains-mono-nerd
+ttf-joypixels
 ttf-liberation
 ttf-opensans
 ttf-roboto
 ttf-ubuntu-font-family
-ttf-jetbrains-mono-nerd
-ttf-joypixels
-ttf-iosevka-nerd
-ttc-iosevka

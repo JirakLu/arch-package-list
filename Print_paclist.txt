@@ -1,13 +1,13 @@
 cups
-cups-pdf
 cups-filters
+cups-pdf
 cups-pk-helper
 foomatic-db
 foomatic-db-engine
 foomatic-db-gutenprint-ppds
-foomatic-db-ppds
 foomatic-db-nonfree
 foomatic-db-nonfree-ppds
+foomatic-db-ppds
 ghostscript
 gsfonts
 gutenprint

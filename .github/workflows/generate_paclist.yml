@@ -26,9 +26,12 @@ jobs:
       - name: Check out the repository to the runner
         uses: actions/checkout@v4  
       - name: Make the script files executable
-        run: chmod +x generate_merged.sh
+        run: |
+          chmod +x cleanup.sh
+          chmod +x generate_merged.sh
       - name: Run the scripts
         run: |
+          ./cleanup.sh
           ./generate_merged.sh
           git config user.name github-actions
           git config user.email github-actions@github.com

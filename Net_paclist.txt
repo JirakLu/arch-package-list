@@ -1,11 +1,11 @@
 avahi
 dnsutils
 firewalld
-net-tools
 netctl
+net-tools
 networkmanager
-networkmanager-openvpn
 network-manager-applet
+networkmanager-openvpn
 nm-connection-editor
 nss-mdns
 wget

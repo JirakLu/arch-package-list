@@ -46,9 +46,9 @@ libfido2
 libusb-compat
 linux
 linux-atm
-linux-headers
 linux-firmware
 linux-firmware-marvell
+linux-headers
 livecd-sounds
 lsscsi
 lvm2
@@ -71,10 +71,10 @@ nilfs-utils
 nmap
 ntfs-3g
 nvme-cli
-open-iscsi
-open-vm-tools
 openconnect
+open-iscsi
 openssh
+open-vm-tools
 openvpn
 partclone
 parted
