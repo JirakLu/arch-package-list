@@ -203,11 +203,6 @@ nss-mdns
 ntfs-3g
 nvme-cli
 ocl-icd
-<<<<<<< HEAD
-=======
-openal
-openconnect
->>>>>>> 3c75d4f (feat: cleanup some packages)
 open-iscsi
 open-vm-tools
 openal
@@ -320,7 +315,6 @@ xf86-video-intel
 xfsprogs
 xl2tpd
 xorg
-xorgproto
 xorg-xbacklight
 xorg-xev
 xorg-xinit
