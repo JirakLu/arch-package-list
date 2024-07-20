@@ -39,6 +39,7 @@ nginx
 ninja
 nodejs
 npm
+pacman-contrib
 pass
 pnpm
 podman

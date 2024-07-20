@@ -3,6 +3,7 @@ brave-bin
 bun
 devour
 jetbrains-toolbox
+mkinitcpio-numlock
 netbird
 netbird-ui
 ngrok
