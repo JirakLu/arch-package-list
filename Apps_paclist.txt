@@ -19,6 +19,7 @@ firefox
 flameshot
 git
 github-cli
+gnome-themes-extra
 go
 gradle
 gtk2
