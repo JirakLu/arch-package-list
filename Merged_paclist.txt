@@ -4,6 +4,7 @@ alsa-firmware
 alsa-lib
 alsa-plugins
 alsa-utils
+arandr
 avahi
 b43-fwcutter
 base
