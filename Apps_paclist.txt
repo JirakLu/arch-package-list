@@ -1,4 +1,5 @@
 alacritty
+arandr
 bat
 bc
 bluez
@@ -40,6 +41,7 @@ nginx
 ninja
 nodejs
 npm
+openvpn
 pacman-contrib
 pass
 pnpm
