@@ -1,12 +1,13 @@
 anki-bin 
+bluetui-bin
 brave-bin
-bun
+bun-bin
 devour
 jetbrains-toolbox
 mkinitcpio-numlock
-netbird
+netbird-bin
 netbird-ui
 ngrok
 slack-desktop
-tableplus
+tableplus-bin
 zsh-fast-syntax-highlighting
