@@ -11,4 +11,5 @@ ngrok
 slack-desktop
 tableplus-bin
 timeshift-autosnap
+yay-bin
 zsh-fast-syntax-highlighting
