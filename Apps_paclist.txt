@@ -50,6 +50,7 @@ podman-docker
 prettier
 pulsemixer
 python
+qemu-full
 qt5-base
 qt6-base
 sqlite
@@ -65,6 +66,9 @@ unclutter
 unzip
 upower
 valgrind
+vde2
+virt-manager
+virt-viewer
 vlc
 xclip
 xcompmgr

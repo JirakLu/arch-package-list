@@ -1,6 +1,7 @@
 alsa-lib
 alsa-plugins
 dkms
+edk2-ovmf
 giflib
 gnutls
 gst-plugins-base-libs
@@ -33,6 +34,7 @@ lib32-vulkan-icd-loader
 lib32-vulkan-intel
 libgcrypt
 libgpg-error
+libguestfs
 libjpeg-turbo
 libldap
 libpng
@@ -55,5 +57,5 @@ vulkan-icd-loader
 vulkan-intel
 wacom
 wine
-xf86-video-intel
 xf86-input-wacom
+xf86-video-intel
