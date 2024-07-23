@@ -80,6 +80,7 @@ gnu-netcat
 gnutls
 go
 gpart
+gparted
 gpm
 gptfdisk
 gradle
@@ -245,6 +246,7 @@ pixman
 pnpm
 podman
 podman-docker
+polkit-gnome
 ppp
 pptpclient
 prettier
