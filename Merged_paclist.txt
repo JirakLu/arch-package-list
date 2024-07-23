@@ -314,6 +314,7 @@ vlc
 vpnc
 vulkan-icd-loader
 vulkan-intel
+wacom
 wget
 whois
 wine
@@ -328,6 +329,7 @@ xcb-util-image
 xcb-util-renderutil
 xclip
 xcompmgr
+xf86-input-wacom
 xf86-video-intel
 xfsprogs
 xl2tpd
