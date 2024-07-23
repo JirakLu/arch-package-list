@@ -70,6 +70,7 @@ foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
 fsarchiver
+fzf
 ghostscript
 giflib
 git
