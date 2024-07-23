@@ -161,6 +161,7 @@ libusb-compat
 libva
 libva-mesa-driver
 libva-utils
+libwacom
 libx11
 libxcb
 libxcomposite
@@ -324,7 +325,6 @@ vlc
 vpnc
 vulkan-icd-loader
 vulkan-intel
-wacom
 wget
 whois
 wine
