@@ -18,6 +18,7 @@ fastfetch
 file-roller
 firefox
 flameshot
+fzf
 git
 github-cli
 gnome-themes-extra
