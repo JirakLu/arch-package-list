@@ -11,6 +11,5 @@ network-manager-applet
 networkmanager-openvpn
 nm-connection-editor
 nss-mdns
-openbsd-netcat
 wget
 whois
