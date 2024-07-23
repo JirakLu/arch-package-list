@@ -224,7 +224,6 @@ ocl-icd
 open-iscsi
 open-vm-tools
 openal
-openbsd-netcat
 openconnect
 openssh
 openvpn
