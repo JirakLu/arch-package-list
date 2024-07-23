@@ -53,5 +53,7 @@ v4l-utils
 virtualbox-guest-utils
 vulkan-icd-loader
 vulkan-intel
+wacom
 wine
 xf86-video-intel
+xf86-input-wacom
