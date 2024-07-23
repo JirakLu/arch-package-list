@@ -81,5 +81,6 @@ xournalpp
 xwallpaper
 yarn
 yt-dlp
+zed
 zip
 zoxide
