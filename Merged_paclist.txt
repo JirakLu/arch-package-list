@@ -84,6 +84,7 @@ gptfdisk
 gradle
 grml-zsh-config
 grub
+grub-btrfs
 gsfonts
 gst-libav
 gst-plugin-pipewire
@@ -227,6 +228,7 @@ openal
 openconnect
 openssh
 openvpn
+os-prober
 pacman-contrib
 partclone
 parted
