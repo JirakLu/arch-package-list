@@ -42,6 +42,7 @@ ninja
 nodejs
 npm
 openvpn
+os-prober
 pacman-contrib
 pass
 pnpm
