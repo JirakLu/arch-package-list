@@ -42,6 +42,7 @@ libpulse
 libva
 libva-mesa-driver
 libva-utils
+libwacom
 libxcomposite
 libxinerama
 libxslt
@@ -55,7 +56,6 @@ v4l-utils
 virtualbox-guest-utils
 vulkan-icd-loader
 vulkan-intel
-wacom
 wine
 xf86-input-wacom
 xf86-video-intel
