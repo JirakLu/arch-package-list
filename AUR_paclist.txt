@@ -10,4 +10,5 @@ netbird-ui
 ngrok
 slack-desktop
 tableplus-bin
+timeshift-autosnap
 zsh-fast-syntax-highlighting

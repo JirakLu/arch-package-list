@@ -26,6 +26,7 @@ gradle
 gtk2
 gtk3
 gtk4
+grub-btrfs
 htop
 jdk17-openjdk
 jdk-openjdk
