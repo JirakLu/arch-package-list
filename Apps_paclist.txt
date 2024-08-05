@@ -33,6 +33,8 @@ htop
 jdk17-openjdk
 jdk-openjdk
 jq
+kvantum
+kvantum-qt5
 lf
 libreoffice-fresh
 lxappearance
