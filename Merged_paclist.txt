@@ -118,6 +118,8 @@ jdk17-openjdk
 jfsutils
 jq
 kitty-terminfo
+kvantum
+kvantum-qt5
 less
 lf
 lftp
