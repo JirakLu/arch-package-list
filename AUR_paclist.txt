@@ -3,7 +3,6 @@ bluetui-bin
 brave-bin
 bun-bin
 devour
-grub-btrfs
 jetbrains-toolbox
 mkinitcpio-firmware
 mkinitcpio-numlock
