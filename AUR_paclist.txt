@@ -4,6 +4,7 @@ brave-bin
 bun-bin
 devour
 jetbrains-toolbox
+mkinitcpio-firmware
 mkinitcpio-numlock
 netbird-bin
 netbird-ui
