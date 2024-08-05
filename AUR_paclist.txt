@@ -1,4 +1,4 @@
-anki-bin 
+anki-bin
 bluetui-bin
 brave-bin
 bun-bin
