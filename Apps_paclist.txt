@@ -60,6 +60,7 @@ python
 qemu-full
 qt5-base
 qt6-base
+slop
 sqlite
 starship
 stow
