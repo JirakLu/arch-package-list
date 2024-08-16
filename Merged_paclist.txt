@@ -272,6 +272,7 @@ rxvt-unicode-terminfo
 screen
 sdparm
 sg3_utils
+slop
 smartmontools
 sof-firmware
 sqlite
