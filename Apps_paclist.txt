@@ -1,5 +1,6 @@
 alacritty
 arandr
+atool
 bat
 bc
 bluez
@@ -40,6 +41,7 @@ libreoffice-fresh
 lxappearance
 maven
 mpv
+mupdf
 neofetch
 neovim
 nginx
@@ -85,6 +87,8 @@ xournalpp
 xwallpaper
 yarn
 yt-dlp
+zathura
+zathura-pdf-mupdf
 zed
 zip
 zoxide
