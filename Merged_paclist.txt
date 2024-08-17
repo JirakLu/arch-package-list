@@ -5,6 +5,7 @@ alsa-lib
 alsa-plugins
 alsa-utils
 arandr
+atool
 avahi
 b43-fwcutter
 base
@@ -159,6 +160,7 @@ libgpg-error
 libguestfs
 libjpeg-turbo
 libldap
+libmupdf
 libpng
 libpulse
 libreoffice-fresh
@@ -202,6 +204,7 @@ modemmanager
 mpg123
 mpv
 mtools
+mupdf
 nano
 nbd
 ncurses
@@ -362,6 +365,8 @@ xvidcore
 xwallpaper
 yarn
 yt-dlp
+zathura
+zathura-pdf-mupdf
 zed
 zip
 zoxide
