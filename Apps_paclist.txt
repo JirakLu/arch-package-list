@@ -62,6 +62,7 @@ python
 qemu-full
 qt5-base
 qt6-base
+rofi
 slop
 sqlite
 starship
