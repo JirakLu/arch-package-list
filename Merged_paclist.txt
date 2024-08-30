@@ -269,6 +269,7 @@ qt6-base
 refind
 reflector
 reiserfsprogs
+rofi
 rp-pppoe
 rsync
 rxvt-unicode-terminfo
