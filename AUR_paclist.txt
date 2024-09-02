@@ -9,6 +9,7 @@ mkinitcpio-numlock
 netbird-bin
 netbird-ui
 ngrok
+simple-mtpfs
 slack-desktop
 snixembed
 tableplus-bin
