@@ -22,6 +22,7 @@ flameshot
 fzf
 git
 github-cli
+git-delta
 gnome-themes-extra
 go
 gradle
