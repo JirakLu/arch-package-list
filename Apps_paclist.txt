@@ -49,6 +49,7 @@ nginx
 ninja
 nodejs
 npm
+nsxiv
 openvpn
 os-prober
 pacman-contrib
