@@ -20,6 +20,7 @@ file-roller
 firefox
 flameshot
 fzf
+gdu
 git
 github-cli
 git-delta
