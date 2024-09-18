@@ -6,6 +6,7 @@ bc
 bluez
 bluez-utils
 btop
+cifs-utils
 chromium
 cronie
 curl
