@@ -21,6 +21,7 @@ broadcom-wl-dkms
 btop
 btrfs-progs
 chromium
+cifs-utils
 clonezilla
 cloud-init
 cmake
