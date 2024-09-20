@@ -58,6 +58,7 @@ pacman-contrib
 pass
 pnpm
 podman
+podman-compose
 podman-docker
 polkit-gnome
 prettier
