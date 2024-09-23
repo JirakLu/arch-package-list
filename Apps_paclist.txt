@@ -52,6 +52,7 @@ ninja
 nodejs-lts-iron
 npm
 nsxiv
+numlockx
 openvpn
 os-prober
 pacman-contrib
