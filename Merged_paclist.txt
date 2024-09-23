@@ -225,7 +225,7 @@ nilfs-utils
 ninja
 nm-connection-editor
 nmap
-nodejs
+nodejs-lts-iron
 noto-fonts
 npm
 nss-mdns
