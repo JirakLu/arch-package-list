@@ -49,7 +49,7 @@ neofetch
 neovim
 nginx
 ninja
-nodejs
+nodejs-lts-iron
 npm
 nsxiv
 openvpn
