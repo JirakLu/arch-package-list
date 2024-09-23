@@ -231,6 +231,7 @@ npm
 nss-mdns
 nsxiv
 ntfs-3g
+numlockx
 nvme-cli
 ocl-icd
 open-iscsi
