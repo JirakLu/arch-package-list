@@ -91,6 +91,8 @@ virt-viewer
 vlc
 xclip
 xcompmgr
+xdg-desktop-portal
+xdg-desktop-portal-gtk
 xournalpp
 xwallpaper
 yarn
