@@ -13,7 +13,9 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+pipewire-audio
 wireplumber
+sof-firmware
 x264
 x265
 xvidcore
