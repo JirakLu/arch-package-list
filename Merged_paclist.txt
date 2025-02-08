@@ -109,6 +109,9 @@ haveged
 hdparm
 htop
 hyperv
+hyprcursor
+hyprland
+hyprpaper
 imlib2
 intel-media-driver
 intel-ucode
@@ -271,7 +274,9 @@ python-reportlab
 qemu-full
 qemu-guest-agent
 qt5-base
+qt5-wayland
 qt6-base
+qt6-wayland
 refind
 reflector
 reiserfsprogs
@@ -344,6 +349,7 @@ vlc
 vpnc
 vulkan-icd-loader
 vulkan-intel
+waybar
 wget
 whois
 wine
@@ -358,6 +364,9 @@ xcb-util-image
 xcb-util-renderutil
 xclip
 xcompmgr
+xdg-desktop-portal
+xdg-desktop-portal-gtk
+xdg-desktop-portal-hyprland
 xf86-input-wacom
 xf86-video-intel
 xfsprogs
