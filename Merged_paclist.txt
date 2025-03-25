@@ -332,6 +332,7 @@ ttf-opensans
 ttf-roboto
 ttf-ubuntu-font-family
 udftools
+ueberzug
 unclutter
 unzip
 upower
