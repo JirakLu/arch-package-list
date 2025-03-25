@@ -81,6 +81,7 @@ thunar-volman
 tidy
 tldr
 tree
+ueberzug
 unclutter
 unzip
 upower
