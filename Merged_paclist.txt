@@ -45,6 +45,8 @@ dmidecode
 dmraid
 dnsmasq
 dnsutils
+docker
+docker-compose
 dosfstools
 duf
 dunst
@@ -258,9 +260,6 @@ pipewire-jack
 pipewire-pulse
 pixman
 pnpm
-podman
-podman-compose
-podman-docker
 polkit-gnome
 ppp
 pptpclient
@@ -358,6 +357,7 @@ wine
 wireless-regdb
 wireless_tools
 wireplumber
+wl-clipboard
 wpa_supplicant
 wvdial
 x264
