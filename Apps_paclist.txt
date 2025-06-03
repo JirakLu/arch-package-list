@@ -12,6 +12,8 @@ cronie
 curl
 dash
 discord
+docker
+docker-compose
 duf
 dunst
 eslint
@@ -58,9 +60,6 @@ os-prober
 pacman-contrib
 pass
 pnpm
-podman
-podman-compose
-podman-docker
 polkit-gnome
 prettier
 pulsemixer
