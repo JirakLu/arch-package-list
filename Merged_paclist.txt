@@ -81,7 +81,6 @@ git
 git-delta
 github-cli
 gnome-themes-extra
-gnu-netcat
 gnutls
 go
 gpart
@@ -213,7 +212,6 @@ nano
 nbd
 ncurses
 ndisc6
-neofetch
 neovim
 net-tools
 netctl
@@ -255,6 +253,7 @@ pipewire-audio
 pipewire-jack
 pipewire-pulse
 pixman
+playerctl
 pnpm
 polkit-gnome
 ppp
@@ -273,7 +272,6 @@ qt5-base
 qt6-base
 refind
 reflector
-reiserfsprogs
 rofi
 rp-pppoe
 rsync
@@ -319,7 +317,6 @@ ttf-fira-sans
 ttf-inconsolata
 ttf-iosevka-nerd
 ttf-jetbrains-mono-nerd
-ttf-joypixels
 ttf-liberation
 ttf-opensans
 ttf-roboto
