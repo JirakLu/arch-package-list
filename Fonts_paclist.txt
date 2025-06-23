@@ -14,7 +14,6 @@ ttf-fira-sans
 ttf-inconsolata
 ttf-iosevka-nerd
 ttf-jetbrains-mono-nerd
-ttf-joypixels
 ttf-liberation
 ttf-opensans
 ttf-roboto

@@ -47,7 +47,6 @@ lxappearance
 maven
 mpv
 mupdf
-neofetch
 neovim
 nginx
 ninja
@@ -59,6 +58,7 @@ openvpn
 os-prober
 pacman-contrib
 pass
+playerctl
 pnpm
 polkit-gnome
 prettier

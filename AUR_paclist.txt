@@ -14,5 +14,6 @@ slack-desktop
 snixembed
 tableplus-bin
 timeshift-autosnap
+ttf-joypixels
 yay-bin
 zsh-fast-syntax-highlighting
